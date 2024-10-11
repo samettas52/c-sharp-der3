@@ -1,0 +1,7 @@
+C:\Users\samet\OneDrive\Masaüstü\c#\ders3\ders3\bin\Debug\ders3.exe.config
+C:\Users\samet\OneDrive\Masaüstü\c#\ders3\ders3\bin\Debug\ders3.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\ders3\ders3\bin\Debug\ders3.pdb
+C:\Users\samet\OneDrive\Masaüstü\c#\ders3\ders3\obj\Debug\ders3.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\ders3\ders3\obj\Debug\ders3.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\c#\ders3\ders3\obj\Debug\ders3.exe
+C:\Users\samet\OneDrive\Masaüstü\c#\ders3\ders3\obj\Debug\ders3.pdb
